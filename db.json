@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "item": [
+    {
+      "item": "iphone",
+      "decp": "mobile ",
+      "price": "60000",
+      "date": "2024-01-09T18:30:00.000Z",
+      "stock": "instock",
+      "dt": "Delivery within 3days",
+      "review": "we can connect",
+      "id": 2
+    },
+    {
+      "item": "erepod",
+      "decp": "for music",
+      "price": "2999",
+      "date": "2024-01-01T18:30:00.000Z",
+      "stock": "outstock",
+      "dt": "Delivery within 3days",
+      "review": "enjoy your life using erepod",
+      "id": 4
+    },
+    {
+      "item": "kjlkjlk",
+      "decp": "nmn",
+      "price": "10000",
+      "date": "2024-01-08T18:30:00.000Z",
+      "stock": "instock",
+      "dt": "Delivery within 3days",
+      "review": "",
+      "id": 6
+    }
+  ]
+}
